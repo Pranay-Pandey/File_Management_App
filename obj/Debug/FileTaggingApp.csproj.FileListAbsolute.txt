@@ -1,0 +1,31 @@
+E:\VSCODE_PROJECTS\FileTaggingApp\bin\Debug\FileTaggingApp.exe.config
+E:\VSCODE_PROJECTS\FileTaggingApp\bin\Debug\FileTaggingApp.exe
+E:\VSCODE_PROJECTS\FileTaggingApp\bin\Debug\FileTaggingApp.pdb
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.csproj.AssemblyReference.cache
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.csproj.SuggestedBindingRedirects.cache
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.Form1.resources
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.Properties.Resources.resources
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.csproj.GenerateResource.cache
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.csproj.CoreCompileInputs.cache
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.exe
+E:\VSCODE_PROJECTS\FileTaggingApp\obj\Debug\FileTaggingApp.pdb
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.csproj.AssemblyReference.cache
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.Form1.resources
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.Properties.Resources.resources
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.csproj.GenerateResource.cache
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.csproj.CoreCompileInputs.cache
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.exe
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.pdb
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\FileTaggingApp.exe.config
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\FileTaggingApp.exe
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\FileTaggingApp.pdb
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.exe.config
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\prana\Desktop\FILE MANAG\Form App\temppp-main\obj\Debug\FileTaggingApp.csproj.CopyComplete
